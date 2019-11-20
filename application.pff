@@ -1,0 +1,21 @@
+﻿ 
+[Run Information]
+Version=CSPro 7.1
+AppType=Entry
+[DataEntryInit]
+OperatorID=011
+StartMode=ADD;001007
+Lock=Verify
+NoFileOpen=Yes
+[Files]
+Application=.\PEEL\PEEL.ent
+InputData=.\DATA\RAWD\A001007011.dat
+[ExternalFiles]
+INTERV=.\LOOKUP\interv.dat
+SER=.\LOOKUP\serial.dat
+CLUSTERS=.\LOOKUP\clusters.dat
+CTRL_HH=.\DATA\CONTROL\CT001007.dat
+OTHERS=.\DATA\RAWD\O001007011.dat
+HH_GPS=.\DATA\RAWD\G001007011.dat
+[Parameters]
+Parameter=00100701100100

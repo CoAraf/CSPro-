@@ -1,0 +1,166 @@
+{
+  "fileType": "Application Deployment Specification",
+  "version": "7.1",
+  "name": "ZOI",
+  "description": "",
+  "files": [
+    {
+      "path": ".\\application.pff"
+    },
+    {
+      "path": ".\\Interviewer.pff"
+    },
+    {
+      "path": ".\\Supervisor.pff"
+    },
+    {
+      "path": ".\\Entry\\application.pff"
+    },
+    {
+      "path": ".\\Entry\\Interviewer.ent"
+    },
+    {
+      "path": ".\\Entry\\ListElig.ent"
+    },
+    {
+      "path": ".\\Entry\\ListElig.pff"
+    },
+    {
+      "path": ".\\Entry\\SecondAssign.ent"
+    },
+    {
+      "path": ".\\Entry\\SecondModule.ent"
+    },
+    {
+      "path": ".\\Peel\\Peel.ent"
+    },
+    {
+      "path": ".\\Peel\\Peel.pff"
+    },
+    {
+      "path": ".\\Supervisor\\AddHidden.ent"
+    },
+    {
+      "path": ".\\Supervisor\\Supervisor.ent"
+    },
+    {
+      "path": ".\\Lookup\\PEELFunctions.app"
+    },
+    {
+      "path": ".\\Lookup\\clusters.dat"
+    },
+    {
+      "path": ".\\Lookup\\control.dat"
+    },
+    {
+      "path": ".\\Lookup\\control_general.dat"
+    },
+    {
+      "path": ".\\Lookup\\ctrl_cluster.dat"
+    },
+    {
+      "path": ".\\Lookup\\ctrl_cluster22.dat"
+    },
+    {
+      "path": ".\\Lookup\\ctrl_hh.dat"
+    },
+    {
+      "path": ".\\Lookup\\interv.dat"
+    },
+    {
+      "path": ".\\Lookup\\SAMPSEL.DAT"
+    },
+    {
+      "path": ".\\Lookup\\serial.dat"
+    },
+    {
+      "path": ".\\Lookup\\weights.dat"
+    },
+    {
+      "path": ".\\Lookup\\rep_header.txt"
+    },
+    {
+      "path": ".\\Data\\ACCEPTED\\A001.dat"
+    },
+    {
+      "path": ".\\Data\\ACCEPTED\\G001.dat"
+    },
+    {
+      "path": ".\\Data\\ACCEPTED\\O001.dat"
+    },
+    {
+      "path": ".\\Data\\CONTROL\\CT001.DAT"
+    }
+  ],
+  "dictionaries": [
+    {
+      "path": ".\\Dicts\\SERIAL.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\CTRL_CLUSTER.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\CTRL_GENERAL.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\Interv.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Entry\\Interviewer.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\Clusters.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\Cnull.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\Peel.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Entry\\secondassign.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\CTRL_HH.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Entry\\SecondModule.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\dicts\\Others.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\dicts\\GPS.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Dicts\\SampSel.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Supervisor\\AddHidden.dcf",
+      "uploadForSync": true
+    },
+    {
+      "path": ".\\Supervisor\\supervisor.dcf",
+      "uploadForSync": true
+    }
+  ],
+  "deployment": {
+    "type": "CSWeb",
+    "cswebUrl": "http:\/\/data2.arudco.org\/api\/",
+    "ftpUrl": "ftp:\/\/ftp2.tns-global.com"
+  }
+}
