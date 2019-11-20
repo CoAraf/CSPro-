@@ -1,0 +1,19 @@
+﻿[CSPro Application]
+Version=CSPro 6.3
+Label=SECONDARYEDITING
+Name=SECONDARYEDITING
+AppType=Batch
+[External Dictionaries]
+File=..\dicts\CONTROL.dcf
+File=..\dicts\weights.dcf
+[AppCode]
+File=.\SecondaryEditing.app
+Include=..\Lookup\PEELFunctions.app
+[Message]
+File=.\SecondaryEditing.mgf
+[Order]
+File=.\SecondaryEditing.ord
+[Dictionary Types]
+Dict-Type=..\dicts\CONTROL.dcf,External
+Dict-Type=..\dicts\weights.dcf,External
+Dict-Type=..\dicts\PEEL.dcf,Input,.\SecondaryEditing.ord

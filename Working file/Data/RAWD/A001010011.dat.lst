@@ -1,0 +1,208 @@
+﻿Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\PEEL\PEEL.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\A001010011.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\O001010011.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\G001010011.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\LOOKUP\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\CONTROL\CT001010.dat
+
+Date            Jan 16, 2019
+Start Time      11:14:55
+End Time        11:15:08
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      5       1    -   W GPS is not active. Enable GPS and try again           -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\PEEL\PEEL.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\A001010011.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\O001010011.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\G001010011.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\LOOKUP\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\CONTROL\CT001010.dat
+
+Date            Jan 18, 2019
+Start Time      09:41:11
+End Time        09:42:05
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      5       1    -   W GPS is not active. Enable GPS and try again           -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\PEEL\PEEL.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\A001010011.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\O001010011.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\RAWD\G001010011.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\LOOKUP\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\DATA\CONTROL\CT001010.dat
+
+Date            Jan 18, 2019
+Start Time      09:54:22
+End Time        09:55:21
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      5       1    -   W GPS is not active. Enable GPS and try again           -
+     14       1    -   W Household questionnaire incomplete. Confirm res       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\PEEL\PEEL.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\A001010011.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\O001010011.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\G001010011.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\LOOKUP\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\CONTROL\CT001010.dat
+
+Date            Jan 23, 2019
+Start Time      07:16:56
+End Time        07:17:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      5       1    -   W GPS is not active. Enable GPS and try again           -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\PEEL\PEEL.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\A001010011.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\O001010011.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\G001010011.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\LOOKUP\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\CONTROL\CT001010.dat
+
+Date            Jan 23, 2019
+Start Time      07:37:49
+End Time        07:41:32
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+  99990            5   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      5       1    -   W GPS is not active. Enable GPS and try again           -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\PEEL\PEEL.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\A001010011.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\O001010011.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\G001010011.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\LOOKUP\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\CONTROL\CT001010.dat
+
+Date            Jan 23, 2019
+Start Time      08:21:45
+End Time        08:30:05
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+  99990            8   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      5       1    -   W GPS is not active. Enable GPS and try again           -
+  89991       1    -   E The first character of a name must be a letter        -
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+   1038       1    -   Name cannot be empty                                    -
+   2081       1    -   H_mod1 = %d                                             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\PEEL\PEEL.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\A001010011.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\O001010011.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\RAWD\G001010011.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\LOOKUP\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\DATA\CONTROL\CT001010.dat
+
+Date            Jan 23, 2019
+Start Time      08:34:01
+End Time        08:55:47
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+  99990            5   Operator entered a value out of range            
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      5       1    -   W GPS is not active. Enable GPS and try again           -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

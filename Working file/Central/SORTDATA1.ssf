@@ -1,0 +1,12 @@
+﻿[CSSort]
+Version=CSPro 6.3
+
+[Dictionaries]
+File=..\Dicts\Peel.dcf
+
+[SortType]
+Type=Questionnaire
+
+[Keys]
+Key=Ascending,HHEA,"Cluster number"
+Key=Ascending,HHNUM,"Household number"

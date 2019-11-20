@@ -1,0 +1,24 @@
+﻿Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Central\CentralMenu.app
+Type            ENTRY
+Date            Jan 18, 2019
+Time            11:17:23
+
+CSPRO Error Summary
+
+E 162 'report' is a reserved word - use another name 
+
+E 10011 Error 92: Invalid declaration near line 16 in GLOBAL procedure 
+
+E 10011 Error 8203: Cannot create alpha variable - symbol name already exists 
+near line 3 in FL_MENU procedure 
+
+E 10011 Error 519: Right parenthesis expected near line 3 in MENU_LEVEL 
+procedure 
+
+E 10011 Error 11: Expecting Variable near line 2 in WCLUSTER procedure 
+
+E 10011 Error 96: Invalid character expression near line 1 in WFINAL procedure 
+
+A 10010 5 syntax errors detected 
+
+... ending at 11:17:23

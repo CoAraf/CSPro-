@@ -1,0 +1,734 @@
+﻿Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 12, 2019
+Start Time      09:19:52
+End Time        09:19:59
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 12, 2019
+Start Time      15:48:15
+End Time        15:48:26
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 12, 2019
+Start Time      16:00:07
+End Time        16:00:14
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 12, 2019
+Start Time      16:46:33
+End Time        16:46:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 13, 2019
+Start Time      08:04:54
+End Time        08:05:20
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 14, 2019
+Start Time      07:52:13
+End Time        07:52:19
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 14, 2019
+Start Time      09:40:36
+End Time        09:40:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 14, 2019
+Start Time      09:40:53
+End Time        09:41:31
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 14, 2019
+Start Time      11:39:48
+End Time        11:39:58
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 14, 2019
+Start Time      11:50:49
+End Time        11:50:57
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 14, 2019
+Start Time      19:18:31
+End Time        19:18:39
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 14, 2019
+Start Time      21:01:43
+End Time        21:02:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 15, 2019
+Start Time      11:04:42
+End Time        11:05:00
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 16, 2019
+Start Time      09:21:06
+End Time        09:21:13
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 16, 2019
+Start Time      10:33:17
+End Time        10:33:23
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 16, 2019
+Start Time      11:37:17
+End Time        11:37:22
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 16, 2019
+Start Time      19:20:44
+End Time        19:20:54
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Supervisor\Supervisor.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        SER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\serial.dat
+External        CTRL_CLUSTER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_cluster.dat
+External        INTERV=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\interv.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        C_G=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\control_general.dat
+External        SAMPSEL=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\SAMPSEL.DAT
+<File>          WORKING_FILE=C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\rep_header.txt
+<File>          FROMCKID=C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Supervisor\CheckID.ERR
+
+Date            Jan 17, 2019
+Start Time      09:45:55
+End Time        09:46:03
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Supervisor\Supervisor.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        SER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\serial.dat
+External        CTRL_CLUSTER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_cluster.dat
+External        INTERV=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\interv.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        C_G=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\control_general.dat
+External        SAMPSEL=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\SAMPSEL.DAT
+
+Date            Jan 17, 2019
+Start Time      09:46:31
+End Time        09:46:36
+
+CSPRO Process Summary
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Supervisor\Supervisor.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        SER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\serial.dat
+External        CTRL_CLUSTER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_cluster.dat
+External        INTERV=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\interv.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        C_G=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\control_general.dat
+External        SAMPSEL=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\SAMPSEL.DAT
+<File>          WORKING_FILE=C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\rep_header.txt
+<File>          FROMCKID=C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Supervisor\CheckID.ERR
+
+Date            Jan 17, 2019
+Start Time      11:19:45
+End Time        11:20:11
+
+CSPRO Process Summary
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+  10012       1    -   Cluster (%03d) not found in sample                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Supervisor\Supervisor.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        SER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\serial.dat
+External        CTRL_CLUSTER=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_cluster.dat
+External        INTERV=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\interv.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        C_G=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\control_general.dat
+External        SAMPSEL=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\SAMPSEL.DAT
+<File>          WORKING_FILE=C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\rep_header.txt
+<File>          FROMCKID=C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Supervisor\CheckID.ERR
+
+Date            Jan 17, 2019
+Start Time      11:56:07
+End Time        11:56:11
+
+CSPRO Process Summary
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+  10012       1    -   Cluster (%03d) not found in sample                      -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.pen
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 18, 2019
+Start Time      07:27:01
+End Time        07:27:09
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\colli\Desktop\USAID\02.16 CSPro data entry program for Android-20190112T060848Z-001\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 18, 2019
+Start Time      08:48:47
+End Time        08:48:55
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\Final Draft App\02.16 CSPro data entry program for Android\Lookup\ctrl_hh.dat
+
+Date            Jan 23, 2019
+Start Time      07:51:38
+End Time        07:51:42
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Lookup\ctrl_hh.dat
+
+Date            Jan 25, 2019
+Start Time      09:46:41
+End Time        09:46:48
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Lookup\ctrl_hh.dat
+
+Date            Jan 25, 2019
+Start Time      10:54:59
+End Time        10:55:06
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
+Application     C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Peel\Peel.ent
+Type            ENTRY
+Input Data      <<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\A001.dat
+External        OTHERS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\O001.dat
+External        HH_GPS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Data\ACCEPTED\G001.dat
+External        CLUSTERS=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Lookup\clusters.dat
+External        CTRL_HH=<<Text File>> C:\Users\kevin.otieno\Desktop\USAID CODE 2-ROLL BACK\Working file\Lookup\ctrl_hh.dat
+
+Date            Jan 25, 2019
+Start Time      16:20:59
+End Time        16:21:06
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  48000            8   Invalid expression (%s) in CAPI text             
+
+User numbered messages:
+
+ Number    Freq  Pct.  Message text                                        Denom
+ ------    ----  ----  ------------                                        -----
+      1       1    -   E EA %s not found in the sample design file             -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------
